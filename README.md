@@ -10,7 +10,7 @@ This repository serves as a portfolio for various practical assignments complete
 - [C3PO Q&A Bot](/tp2/2b%20-%20bot_dnn_spacy_esp.ipynb) using TF-IDF.
 - [Embeddings using Gensim](/tp3/Gensim%20entrega.ipynb) based on the songs from the 'Hamilton' musical.
 - [Next Word Predictor](/tp4/tp4.ipynb) using the embeddings created in the previous assignment.
-- [Sentiment Analysis and Scoring](/tp4/tp4.ipynb) using clothing reviews. Tested balancing techniques and pre-trained word2vec embeddings.
+- [Sentiment Analysis and Scoring](/tp5/5-clothing_ecommerce_reviews.ipynb) using clothing reviews. Tested balancing techniques and pre-trained word2vec embeddings.
 - [Q&A Bot](/tp6/6_bot_qa.ipynb) using an encoder-decoder architecture and FastText embeddings.
 
 ## Credits
