@@ -11,7 +11,7 @@ This repository is a portfolio of all practical assignments completed throughout
 - [Embeddings using Gensim](/tp3/Gensim%20entrega.ipynb) using the songs from the 'Hamilton' musical
 - [Next words predictor](/tp4/tp4.ipynb) using the embeddings built in the last assignment
 - [Sentiment analysis and scoring](/tp4/tp4.ipynb) using the reviews from clothes. Tested balancing techniques and word2vec pre-trained embeddings
-- [Q&A Bot](/tp6/6_bot_qa.ipynb) using encoder-decoder architecture and a fasttext embeddings.
+- [Q&A Bot](/tp6/6_bot_qa.ipynb) using encoder-decoder architecture and fasttext embeddings.
 
 ## Credits
 
